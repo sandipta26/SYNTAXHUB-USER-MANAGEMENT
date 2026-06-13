@@ -1,3 +1,4 @@
+ HEAD
 # Source Map Support
 
 [![NPM version](https://img.shields.io/npm/v/@cspotcode/source-map-support.svg?style=flat)](https://npmjs.org/package/@cspotcode/source-map-support)
@@ -287,3 +288,6 @@ This repo contains both automated tests for node and manual tests for the browse
 ## License
 
 This code is available under the [MIT license](http://opensource.org/licenses/MIT).
+
+# project-1-user-management
+ 652d14cd80b09ff42706701c8a86f17bfa3f84c2
