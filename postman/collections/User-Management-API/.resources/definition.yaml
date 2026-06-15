@@ -1,0 +1,13 @@
+$kind: collection
+name: User Management API
+description: RESTful API for user management with CRUD operations
+auth:
+  type: basic
+  credentials:
+    - key: username
+      value: admin
+    - key: password
+      value: admin123
+variables:
+  - key: baseUrl
+    value: 'http://localhost:3000'
